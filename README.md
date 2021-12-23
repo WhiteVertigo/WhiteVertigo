@@ -8,6 +8,7 @@
 
 ![alt text](https://media.istockphoto.com/photos/single-white-rose-isolated-background-picture-id497483252?k=20&m=497483252&s=612x612&w=0&h=gRRbHTL1vtbw3-uuAPjVvMHU9ML-u4NE6A1xHALw3wE=)
 
+Are you using white theme?
 
 ## Experience
 
