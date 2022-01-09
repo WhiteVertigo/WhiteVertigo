@@ -12,7 +12,7 @@ Are you using white theme?
 
 ## Experience
 
-- Minimal knowledge about "Python"
+- Python
 - I dont have C++ knowledge (i have it less than minimal just like python) (Yes help pls)
 - Learning RE (Please help me)
 - Social engineering ;)
