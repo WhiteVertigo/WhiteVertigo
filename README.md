@@ -8,35 +8,29 @@
 
 ![alt text](https://media.istockphoto.com/photos/single-white-rose-isolated-background-picture-id497483252?k=20&m=497483252&s=612x612&w=0&h=gRRbHTL1vtbw3-uuAPjVvMHU9ML-u4NE6A1xHALw3wE=)
 
-Are you using white theme?
+
 
 ## Experience
 
 - Python
-- I dont have C++ knowledge (i have it less than minimal just like python) (Yes help pls)
+- I dont have C++ knowledge (i have it but its less than minimal )
 - Learning RE (Please help me)
-- Social engineering ;)
-- I like "Brainfuck" and i undearstand how it works
 
-
-## Darker Side?
-
-Yes, but it stays with me. Thats what i like about programming , no one cares if you ugly or you have no leg. 
-Anyone can code and just enjoy it!
 
 
 
 
 My heroes:
-- Samy Kamkar
+-Rwxr0b
+-Samy Kamkar
+Aaron Swartz
 Terry A.Davis
-Dan Riskin
 John McAfee :D
 
-
-Also i just want to learn stuff its like my addiction to get information and use it.
 
 
 ## My timeline:
 
   Here you will see my progress
+  
+  <<2022-04-20>>Soaking my feet into this app where digital text converts to your handwritten text and outputs on your desired photo and vice versa....
